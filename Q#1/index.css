@@ -1,0 +1,35 @@
+.headcontainer{
+    background-color: orchid;
+    text-align: center;
+}
+.info{
+    color: wheat;
+    background-color: black;
+    width: fit-content;
+}
+#all-posts{
+    width: 100%;
+    background-color: orchid;
+    text-align: center;
+    height: auto;
+}
+
+#pages{
+    width: 100%;
+    background-color: aqua;
+    color: blue;
+}
+.user-post{
+    background-color: brown;
+    text-align: center;
+}
+
+button{
+    background-color: blue;
+}
+.reactions{
+    color: yellow;
+}
+.userid{
+    color: lightblue;
+}
